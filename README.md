@@ -1,3 +1,4 @@
+# ⚠️ **We are in the process of moving this and other repositories onto a different platform, the proper link will be posted soon**
 # Xournal++
 
 [![Build Status](https://dev.azure.com/xournalpp/xournalpp/_apis/build/status/CI?branchName=master)](https://dev.azure.com/xournalpp/xournalpp/_build/latest?definitionId=1&branchName=master)
